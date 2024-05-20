@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Aliquam erat volutpat",
+        "description": "Maecenas porta at sapien sed dapibus. Aliquam erat volutpat. Mauris ultrices eros orci, eget condimentum massa aliquet in.",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/02/22/17/06/wave-2089959_1280.jpg",
+        "key": "0"
+    },
+    {
+        "title": "Aliquam erat volutpat",
+        "description": "Maecenas porta at sapien sed dapibus. Aliquam erat volutpat. Mauris ultrices eros orci, eget condimentum massa aliquet in. ",
+        "key": "1"
+    },
+    {
+        "title": "Dit is een hele lange banner title",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum finibus dolor, nec mollis erat ultricies vitae. Maecenas elit nunc, finibus at erat eget, venenatis fermentum leo. Integer efficitur pretium porttitor. Integer at nulla nec felis viverra ullamcorper eget vitae sem. Duis non risus et arcu aliquam molestie sed id metus. Sed at cursus nisi. Mauris ac facilisis quam, ut dapibus libero. In vulputate malesuada facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "key": "2"
+    },
+    {
+        "title": "Dit is een hele lange banner title",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum finibus dolor, nec mollis erat ultricies vitae. Maecenas elit nunc, finibus at erat eget, venenatis fermentum leo. Integer efficitur pretium porttitor. Integer at nulla nec felis viverra ullamcorper eget vitae sem. Duis non risus et arcu aliquam molestie sed id metus. Sed at cursus nisi. Mauris ac facilisis quam, ut dapibus libero. In vulputate malesuada facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "imageUrl": "https://picsum.photos/id/237/200/200",
+        "key": "3"
+    },
+    {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dit is een hele lange banner title",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum finibus dolor, nec mollis erat ultricies vitae. Maecenas elit nunc, finibus at erat eget, venenatis fermentum leo. Integer efficitur pretium porttitor. Integer at nulla nec felis viverra ullamcorper eget vitae sem. Duis non risus et arcu aliquam molestie sed id metus. Sed at cursus nisi. Mauris ac facilisis quam, ut dapibus libero. In vulputate malesuada facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "imageUrl": "https://randompicturegenerator.com/img/picture-generator/52e1d3424e53a414f1dc8460962e33791c3ad6e04e50744172297cd59544c3_640.jpg",
+        "key": "4"
+    }
+]
