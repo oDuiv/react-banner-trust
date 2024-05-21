@@ -11,6 +11,7 @@ const Banner: React.FC<BannerInterface> = (bannerProps) => {
                 <DescriptionText $isDarkTheme={bannerProps.isDarkTheme}>{bannerProps.description}</DescriptionText>
             </TextDiv>
             {bannerProps.imageUrl &&
+                // show image if image url is provided
                 <ImageDiv>
                     <BannerImage
                         className='Banner-image'
